@@ -1,4 +1,4 @@
-#MuJoCo with DDPG 
+# MuJoCo with DDPG 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3b0e7d0e-e990-4cf0-ba38-82e4a8cb54f5" width="250"/>
